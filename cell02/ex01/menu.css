@@ -52,7 +52,7 @@ body {
 
 /* Hover effects */
 .dropdown-content a:hover {
-    background-color: #6c7581;
+    background-color: #21dced;
 }
 
 .dropdown:hover .dropdown-content {
