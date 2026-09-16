@@ -30,7 +30,7 @@ body {
     transition: background-color 0.3s;
 }
 
-/* เมนูลูกที่ซ่อนอยู่ */
+
 .dropdown-content {
     display: none;
     position: absolute;
@@ -50,7 +50,7 @@ body {
     transition: background-color 0.2s;
 }
 
-/* Hover effects */
+
 .dropdown-content a:hover {
     background-color: #21dced;
 }
